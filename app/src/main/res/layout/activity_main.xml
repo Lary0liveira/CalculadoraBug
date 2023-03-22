@@ -90,7 +90,7 @@
         app:layout_constraintVertical_bias="0.277" />
 
     <EditText
-        android:id="@+id/numero1"
+        android:id="@+id/N1"
         android:layout_width="103dp"
         android:layout_height="52dp"
         android:ems="10"
@@ -104,7 +104,7 @@
         app:layout_constraintVertical_bias="0.096" />
 
     <EditText
-        android:id="@+id/numero2"
+        android:id="@+id/N2"
         android:layout_width="103dp"
         android:layout_height="52dp"
         android:layout_marginStart="10dp"
@@ -121,7 +121,7 @@
         app:layout_constraintVertical_bias="0.079" />
 
     <TextView
-        android:id="@+id/resultado"
+        android:id="@+id/RN"
         android:layout_width="103dp"
         android:layout_height="52dp"
         android:hint="resultado:"
